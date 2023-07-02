@@ -1,5 +1,5 @@
 - name: Hello World Sample
-  hosts: localhost
+  hosts: centos01
   tasks:
     - name: Hello Message
       debug:
